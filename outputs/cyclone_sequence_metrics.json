@@ -1,0 +1,23 @@
+{
+    "model": "Random Forest Regressor",
+    "split_method": "GroupShuffleSplit",
+    "test_size": 0.2,
+    "random_state": 42,
+    "observations": 6075,
+    "training_observations": 5032,
+    "testing_observations": 1043,
+    "total_storms": 379,
+    "training_storms": 303,
+    "testing_storms": 76,
+    "storm_overlap": 0,
+    "random_forest": {
+        "MAE": 2.3823809463211467,
+        "RMSE": 4.531080709718267,
+        "R2": 0.9413846534238964
+    },
+    "persistence_baseline": {
+        "MAE": 1.9616490891658678,
+        "RMSE": 5.030682464581114,
+        "R2": 0.9277460569821241
+    }
+}

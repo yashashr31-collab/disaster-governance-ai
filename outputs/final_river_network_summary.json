@@ -1,0 +1,13 @@
+{
+    "input_transition_records": 4206,
+    "individual_river_links": 4206,
+    "district_feature_nodes": 676,
+    "unique_directed_district_connections": 1558,
+    "weakly_connected_components": 22,
+    "strongly_connected_components": 197,
+    "largest_weak_component_nodes": 568,
+    "largest_strong_component_nodes": 328,
+    "self_loops": 0,
+    "graph_type": "Directed district-feature river connectivity graph",
+    "direction_source": "HydroRIVERS NEXT_DOWN"
+}
